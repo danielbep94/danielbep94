@@ -16,7 +16,13 @@
     <i>"Omnia mea mecum porto"</i>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=danielbep94&color=blue&style=flat-square&label=Profile+views" alt="Profile Views" />
+  <p>
+    <a href="https://www.linkedin.com/in/daniel-hernandez-39a2951a3/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=danielbep94&color=blue&style=flat-square&label=Profile+views" alt="Profile Views" />
+  </p>
 </div>
 
 ---
