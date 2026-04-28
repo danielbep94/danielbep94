@@ -48,7 +48,7 @@ My work combines data engineering, software development, automation, cloud infra
 
 - 🔭 **Building** scalable ETL and ELT pipelines
 - ⚙️ **Developing** automation tools for operational efficiency
-- ☁️ **Designing** cloud-native solutions with Google Cloud
+- ☁️ **Designing** cloud-native solutions with AWS, Azure, and Google Cloud
 - 🛒 **Creating** e-commerce and order management platforms
 - 🌱 **Exploring** AI-driven recommendations and business assistants
 - 🔌 **Integrating** APIs such as Stripe, WhatsApp Cloud API, and cloud services
@@ -59,7 +59,7 @@ My work combines data engineering, software development, automation, cloud infra
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nodejs,js,postgres,mongodb,gcp,docker,git,github,bash,vscode&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,nodejs,postgres,mongodb,gcp,aws,azure,docker,git,github,bash,powershell,vscode&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
@@ -68,8 +68,8 @@ My work combines data engineering, software development, automation, cloud infra
 ## Core Skills
 
 ```txt
-Data Engineering    Python · SQL · ETL · Data Modeling · Snowflake
-Backend Development Node.js · Express · REST APIs · MongoDB
-Cloud & DevOps      Google Cloud · Docker · Cloud Run · GitHub Actions
-Automation          Python Scripts · Excel Automation · API Integrations
+Data Engineering    Python · SQL · Snowflake · Databricks · Azure Data Factory
+Backend & Database  Node.js · Express · REST APIs · MongoDB · SQL Server
+Cloud & DevOps      AWS · Azure · Google Cloud · Docker · GitHub Actions
+Automation          Python Scripts · PowerShell · Excel Automation · API Integrations
 AI & Analytics      GenAI Integrations · Business Insights · Recommendation Systems
