@@ -18,24 +18,31 @@
 
   <p>
     <a href="https://www.linkedin.com/in/daniel-hernandez-39a2951a3/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
-    &nbsp;
+    <a href="https://github.com/danielbep94" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-danielbep94-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile">
+    </a>
+    <a href="https://open.spotify.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify-My%20Music-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Profile">
+    </a>
     <img src="https://komarev.com/ghpvc/?username=danielbep94&color=blue&style=flat-square&label=Profile+views" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Dynamic Particle Sphere" width="380">
-
 ## About Me
+
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Dynamic Tech Animation" width="300">
 
 I’m passionate about transforming complex processes into reliable, scalable, and business-ready solutions.
 
 My work combines data engineering, software development, automation, cloud infrastructure, and AI integrations. I enjoy building systems that are clean, practical, and designed to create measurable value.
 
-<br>
+<br clear="all">
+
+---
 
 ## Current Focus
 
@@ -45,8 +52,6 @@ My work combines data engineering, software development, automation, cloud infra
 - 🛒 **Creating** e-commerce and order management platforms
 - 🌱 **Exploring** AI-driven recommendations and business assistants
 - 🔌 **Integrating** APIs such as Stripe, WhatsApp Cloud API, and cloud services
-
-<br clear="all">
 
 ---
 
